@@ -38,9 +38,16 @@
 Ознакомиться с основными операторами зыка Python на примере реализации линейной регрессии.
 
 ## Задание 1
-### 
+### Реализовать совместную работу и передачу данных в связке Python - Google-Sheets – Unity.
 Ход работы:
-- 
+- В облачном сервисе google console подключил API для работы с google sheets и google drive.
+![image](https://user-images.githubusercontent.com/101344196/195162415-e9184427-b031-4e16-96f9-b3ee4f7e0b6d.png)
+
+![image](https://user-images.githubusercontent.com/101344196/195180301-b83d8edf-bc8d-466c-9608-89e46c83ff71.png)
+
+![image](https://user-images.githubusercontent.com/101344196/195180711-7e52d5e0-3e90-4678-880c-b8f1f7a44b70.png)
+
+![image](https://user-images.githubusercontent.com/101344196/195180926-e3baca07-1058-4f8f-abe6-074bc1c00c3d.png)
 
 
 ## Задание 2
