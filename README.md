@@ -17,10 +17,6 @@
 - к.э.н., доцент Панов М.А.
 - ст. преп., Фадеев В.О.
 
-[![N|Solid](https://cldup.com/dTxpPi9lDf.thumb.png)](https://nodesource.com/products/nsolid)
-
-[![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger)
-
 Структура отчета
 
 - Данные о работе: название работы, фио, группа, выполненные задания.
@@ -167,14 +163,6 @@ public class NewBehaviourScript : MonoBehaviour
 - Результат выполнения программы в Unity с новыми данными. Смущает количество ошибок в начале, но он работает:
 ![image](https://user-images.githubusercontent.com/101344196/195180926-e3baca07-1058-4f8f-abe6-074bc1c00c3d.png)
 
-## Задание 2
-
-## Задание 3
-
 ## Выводы
 
-Познакомился с программными средствами для организции передачи данных между инструментами google, Python и Unity. Понял насколько это кропотливый труд
-
-## Powered by
-
-**BigDigital Team: Denisov | Fadeev | Panov**
+Познакомился с программными средствами для организции передачи данных между инструментами google, Python и Unity. Научился проводить сбор, обрабатывать и визуализировать тестовый набор данных.
